@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Countries</string>
+    <string name="add_new_country">Add new country</string>
+    <!--<string name="visited_every_country">You have visited every country!</string>-->
+    <string name="where_have_i_been">Where have I been?</string>
+    <string name="delete_country">Delete country</string>
+    <string name="capital">Capital(s):</string>
+    <string name="population">Population:</string>
+    <string name="area">Area:</string>
+    <string name="region">Region:</string>
+    <string name="subregion">Subregion:</string>
+    <string name="independent">Independent:</string>
+    <string name="un_member">UN member:</string>
+    <string name="continents">Continents:</string>
+    <string name="timezones">Timezones:</string>
+    <string name="tld">TLD:</string>
+    <string name="landlocked">Landlocked:</string>
+    <string name="start_of_week">Start of week:</string>
+    <string name="car_signs">Car signs:</string>
+    <string name="car_side">Left- or right-hand traffic:</string>
+    <string name="open_google_maps">Open in Google Maps</string>
+    <string name="open_openstreetmap">Open on OpenStreetMap</string>
+</resources>
